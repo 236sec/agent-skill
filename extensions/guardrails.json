@@ -1,0 +1,10 @@
+{
+  "$schema": "https://unpkg.com/@aliou/pi-guardrails@0.14.1/schema.json",
+  "applyBuiltinDefaults": true,
+  "version": "0.13.0-20260619",
+  "onboarding": {
+    "completed": true,
+    "completedAt": "2026-06-24T07:35:28.016Z",
+    "version": "0.13.0-20260619"
+  }
+}
